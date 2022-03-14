@@ -1,0 +1,41 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Randomizacao\Randomizacao\bin\Debug\Randomizacao.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Randomizacao\Randomizacao\bin\Debug\Randomizacao.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Randomizacao\Randomizacao\bin\Debug\Randomizacao.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Randomizacao\Randomizacao\obj\Debug\Randomizacao.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Randomizacao\Randomizacao\obj\Debug\Randomizacao.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Randomizacao\Randomizacao\obj\Debug\Randomizacao.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Randomizacao\Randomizacao\obj\Debug\Randomizacao.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\Randomizacao\Randomizacao\obj\Debug\Randomizacao.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Randomizacao\Randomizacao\obj\Debug\Randomizacao.pdb
+F:\Trabalhos Etec\TPA\C#\Randomizacao\Randomizacao\bin\Debug\Randomizacao.exe.config
+F:\Trabalhos Etec\TPA\C#\Randomizacao\Randomizacao\obj\Debug\Randomizacao.exe
+F:\Trabalhos Etec\TPA\C#\Randomizacao\Randomizacao\obj\Debug\Randomizacao.pdb
+F:\Trabalhos Etec\TPA\C#\Randomizacao\Randomizacao\obj\Debug\Randomizacao.csprojResolveAssemblyReference.cache
+F:\Trabalhos Etec\TPA\C#\Randomizacao\Randomizacao\obj\Debug\Randomizacao.Properties.Resources.resources
+F:\Trabalhos Etec\TPA\C#\Randomizacao\Randomizacao\obj\Debug\Randomizacao.csproj.GenerateResource.Cache
+F:\Trabalhos Etec\TPA\C#\Randomizacao\Randomizacao\bin\Debug\Randomizacao.exe
+F:\Trabalhos Etec\TPA\C#\Randomizacao\Randomizacao\bin\Debug\Randomizacao.pdb
+F:\Trabalhos Etec\TPA\C#\Randomizacao\Randomizacao\obj\Debug\Randomizacao.Form2.resources
+F:\Randomizacao\Randomizacao\bin\Debug\Randomizacao.exe.config
+F:\Randomizacao\Randomizacao\obj\Debug\Randomizacao.exe
+F:\Randomizacao\Randomizacao\obj\Debug\Randomizacao.pdb
+G:\Randomizacao\Randomizacao\bin\Debug\Randomizacao.exe.config
+G:\Randomizacao\Randomizacao\bin\Debug\Randomizacao.exe
+G:\Randomizacao\Randomizacao\bin\Debug\Randomizacao.pdb
+G:\Randomizacao\Randomizacao\obj\Debug\Randomizacao.csprojAssemblyReference.cache
+G:\Randomizacao\Randomizacao\obj\Debug\Randomizacao.Form2.resources
+G:\Randomizacao\Randomizacao\obj\Debug\Randomizacao.Properties.Resources.resources
+G:\Randomizacao\Randomizacao\obj\Debug\Randomizacao.csproj.GenerateResource.cache
+G:\Randomizacao\Randomizacao\obj\Debug\Randomizacao.csproj.CoreCompileInputs.cache
+G:\Randomizacao\Randomizacao\obj\Debug\Randomizacao.exe
+G:\Randomizacao\Randomizacao\obj\Debug\Randomizacao.pdb
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\Randomizacao\Randomizacao\bin\Debug\Randomizacao.exe.config
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\Randomizacao\Randomizacao\bin\Debug\Randomizacao.exe
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\Randomizacao\Randomizacao\bin\Debug\Randomizacao.pdb
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\Randomizacao\Randomizacao\obj\Debug\Randomizacao.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\Randomizacao\Randomizacao\obj\Debug\Randomizacao.Form2.resources
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\Randomizacao\Randomizacao\obj\Debug\Randomizacao.Properties.Resources.resources
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\Randomizacao\Randomizacao\obj\Debug\Randomizacao.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\Randomizacao\Randomizacao\obj\Debug\Randomizacao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\Randomizacao\Randomizacao\obj\Debug\Randomizacao.exe
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\Randomizacao\Randomizacao\obj\Debug\Randomizacao.pdb
